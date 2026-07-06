@@ -63,13 +63,7 @@ order by PercentPopulationInfected desc
 
 
 
-
-
-
-
-
-
-
+	
 
 -- Here only in case you want to check them out
 
